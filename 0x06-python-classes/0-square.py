@@ -5,5 +5,3 @@
 class Square:
     """A simple Square class"""
     pass
-Footer
-© 2022 GitHub, Inc.
